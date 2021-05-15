@@ -1,50 +1,38 @@
 {
-  [
-    { "jour":23,
-      "NbTest":424,
-      "NbNvCas":424,
-      "NbCmCas":424,
-      "NbCcas":424,
-      "NbGueris":424,
-      "NomFichier":"com372",
-      "DateHeureExtraction":"date",
-      "Localite":[
-        {
-          "NomLocalite":"Dakar",
-          "NbCas":12
-        },
-        {
-          "NomLocalite":"Thies",
-          "NbCas":12
-        },
-        {
-          "NomLocalite":"Touba",
-          "NbCas":12
-        }
-      ]
-    } ,
-        { "jour":22,
-          "NbTest":424,
-          "NbNvCas":424,
-          "NbCmCas":424,
-          "NbCcas":424,
-          "NbGueris":424,
-          "NomFichier":"covidtest1",
-          "DateHeureExtraction":"date",
-          "Localite":[
-            {
-              "NomLocalite":"Dakar",
-              "NbCas":12
-            },
-            {
-              "NomLocalite":"Thies",
-              "NbCas":12
-            },
-            {
-              "NomLocalite":"Touba",
-              "NbCas":12
-            }
-          ]
-        } 
+  "articles": [
+    {
+      "id": 1,
+      "title": "Construire une API en GO",
+      "authorId": 2
+    },
+    {
+      "id": 2,
+      "title": "Créer une API avec API Platform",
+      "authorId": 1
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "Brillant",
+      "articleId": 1
+    },
+    {
+      "id": 2,
+      "body": "Sympa",
+      "articleId": 2
+    }
+  ],
+  "authors": [
+    {
+      "id": 1,
+      "username": "rpierlot",
+      "title": "Romain Pierlot"
+    },
+    {
+      "id": 2,
+      "username": "qneyrat",
+      "title": "Quentin Neyrat"
+    }
   ]
 }
