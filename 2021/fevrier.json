@@ -46,7 +46,3 @@
         ]
       } 
 ]
-import pandas as pd
-url = "https://raw.githubusercontent.com/aavail/ai-workflow-capstone/master/cs-train/invoices-2017-11.json"
-df = pd.read_json(url)
- df.head()
