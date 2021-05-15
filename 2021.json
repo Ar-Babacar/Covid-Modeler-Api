@@ -1,6 +1,7 @@
-[
-    { "jour":23,
-      "NbTest":424,
+{
+  "com":[
+    { "jour":"23",
+      "NbTest":"424",
       "NbNvCas":424,
       "NbCmCas":424,
       "NbCcas":424,
@@ -46,4 +47,4 @@
           ]
         } 
   ]
-
+}
