@@ -1,0 +1,50 @@
+{
+  [
+    { "jour":23,
+      "NbTest":424,
+      "NbNvCas":424,
+      "NbCmCas":424,
+      "NbCcas":424,
+      "NbGueris":424,
+      "NomFichier":"com372",
+      "DateHeureExtraction":"date",
+      "Localite":[
+        {
+          "NomLocalite":"Dakar",
+          "NbCas":12
+        },
+        {
+          "NomLocalite":"Thies",
+          "NbCas":12
+        },
+        {
+          "NomLocalite":"Touba",
+          "NbCas":12
+        }
+      ]
+    } ,
+        { "jour":22,
+          "NbTest":424,
+          "NbNvCas":424,
+          "NbCmCas":424,
+          "NbCcas":424,
+          "NbGueris":424,
+          "NomFichier":"covidtest1",
+          "DateHeureExtraction":"date",
+          "Localite":[
+            {
+              "NomLocalite":"Dakar",
+              "NbCas":12
+            },
+            {
+              "NomLocalite":"Thies",
+              "NbCas":12
+            },
+            {
+              "NomLocalite":"Touba",
+              "NbCas":12
+            }
+          ]
+        } 
+  ]
+}
