@@ -1,13 +1,13 @@
 {
   "mai":[
-    { "jour":"23",
-      "NbTest":"424",
+    { "jour":23,
+      "NbTest":424,
       "NbNvCas":424,
       "NbCmCas":424,
       "NbCcas":424,
       "NbGueris":424,
       "NomFichier":"com372",
-      "DateHeureExtraction":"2021/05/23 11:00:00",
+      "DateHeureExtraction":"05/23/21 11:00:00",
       "Localite":[
         {
           "NomLocalite":"Dakar",
@@ -30,7 +30,7 @@
           "NbCcas":424,
           "NbGueris":424,
           "NomFichier":"covidtest1",
-          "DateHeureExtraction":"2021/05/22 11:00:00",
+          "DateHeureExtraction":"05/22/21 11:00:00",
           "Localite":[
             {
               "NomLocalite":"Dakar",
