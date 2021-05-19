@@ -2,10 +2,12 @@
   "mai":[
     { "jour":23,
       "NbTest":424,
-      "NbNvCas":424,
+      "NbNouv":424,
       "NbCmCas":424,
-      "NbCcas":424,
+      "NbCont":424,
+      "NbImp":424,
       "NbGueris":424,
+
       "NomFichier":"com372",
       "DateHeureExtraction":"23/05/21 11:00:00",
       "Localite":[
